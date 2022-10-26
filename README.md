@@ -13,3 +13,7 @@ The main window has only three buttons: generate, load, and buffer. The generate
 Under the buffer menu, you'll find that every episode is listed in the order you watched them. You can remove individual episodes from the buffer by clicking on them, or you can clear the entire buffer with the clear all button. Note that the buffer does not update while it's open. In other words, if you have the buffer window open, generating new episodes will not cause those episodes to appear in the buffer menu. You must close and reopen the buffer menu to refresh it at this time. The buffer is still *updated*, but the *display* is not.
 
 When you generate an episode, it will tell you how many episodes are currently in the buffer, and how many total episodes you have included in the system.
+
+# License
+
+This project uses the [FPA General Code License](https://about.fairfieldprogramming.org/licenses/code/). In short, you can do whatever you want with this code for non-commerical purposes. In order to use this code for commerical purposes, you must make substantial changes to it. Reorganizing the logic does not count as a substantial change. See [LICENSE.md](LICENSE.md) or the link above for more details.
